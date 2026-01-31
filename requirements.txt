@@ -1,0 +1,52 @@
+Farm2Door Project Dependencies
+=============================
+
+Prerequisites:
+- Node.js (v14+ recommended)
+- MongoDB (running locally on default port 27017)
+
+-----------------------------
+Server Dependencies (Backend)
+-----------------------------
+Location: /server
+
+Core Packages:
+- express: Web framework
+- mongoose: MongoDB object modeling
+- cors: Cross-Origin Resource Sharing
+- dotenv: Environment variable management
+
+Authentication & Security:
+- bcryptjs: Password hashing
+- jsonwebtoken: JWT implementation for auth
+
+Payments:
+- stripe: Stripe payment processing
+
+Installation Command:
+cd server && npm install express mongoose cors dotenv bcryptjs jsonwebtoken stripe
+
+-----------------------------
+Client Dependencies (Frontend)
+-----------------------------
+Location: /client
+
+Core Framework:
+- react
+- react-dom
+- react-router-dom: Routing
+
+UI & Styling:
+- bootstrap: CSS framework
+- react-bootstrap: Bootstrap components for React
+- bootstrap-icons: Icons
+
+Data Fetching:
+- axios: HTTP client
+
+Build Tools (Dev Dependencies):
+- vite: Build tool and dev server
+- eslint: Linting
+
+Installation Command:
+cd client && npm install axios bootstrap bootstrap-icons react react-bootstrap react-dom react-router-dom

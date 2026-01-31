@@ -1,0 +1,77 @@
+{
+    "navbar": {
+        "home": "Home",
+        "livePrices": "Live Prices",
+        "reviews": "Reviews",
+        "aboutUs": "About Us",
+        "login": "Login",
+        "join": "Join Platform"
+    },
+    "hero": {
+        "badge": "🌱 Creating a Fairer Market",
+        "title": "Empowering Farmers,",
+        "subtitle": "Connecting Markets",
+        "description": "Experience transparent pricing, direct farmer-to-buyer connections, and a supply chain built on trust without the middlemen.",
+        "getStarted": "Get Started",
+        "viewPrices": "View Live Prices"
+    },
+    "features": {
+        "farmers": {
+            "title": "For Farmers",
+            "description": "Send your produce directly to verified buyers. Get fair market rates instantly.",
+            "f1": "Transparent Pricing",
+            "f2": "Zero Commission",
+            "f3": "Instant Payments"
+        },
+        "buyers": {
+            "title": "For Buyers",
+            "description": "Source fresh, high-quality produce directly from the farm to your store.",
+            "f1": "Farm Fresh Quality",
+            "f2": "Trackable Sourcing",
+            "f3": "Bulk Discounts"
+        }
+    },
+    "livePrices": {
+        "title": "Live Mandi Prices",
+        "subtitle": "Real-time market rates from across the region",
+        "searchPlaceholder": "Search crops (e.g. Wheat)...",
+        "viewAll": "View All Markets",
+        "crops": {
+            "wheat": "Wheat",
+            "rice": "Rice (Basmati)",
+            "onion": "Onion (Nashik)",
+            "potato": "Potato",
+            "tomato": "Tomato",
+            "maize": "Maize"
+        },
+        "unit": "/quintal"
+    },
+    "testimonials": {
+        "title": "Trusted by the Community",
+        "r1": {
+            "quote": "I've increased my profits by 30% since using KrushiBajar. No more haggling with unfair agents.",
+            "role": "Farmer, Nashik"
+        },
+        "r2": {
+            "quote": "The quality of vegetables I get is superior because it comes straight from the harvest.",
+            "role": "Urban Consumer"
+        },
+        "r3": {
+            "quote": "Reliable supply chain and transparent billing. It's transformed how we stock our retail outlets.",
+            "role": "Retail Chain"
+        }
+    },
+    "footer": {
+        "tagline": "Bridging the gap between hard-working farmers and conscious consumers for a sustainable future.",
+        "h_platform": "Platform",
+        "h_company": "Company",
+        "h_connect": "Connect",
+        "browse": "Browse Crops",
+        "rates": "Live Mandi Rates",
+        "farmerLogin": "Farmer Login",
+        "buyerSignup": "Buyer Sign Up",
+        "successStories": "Success Stories",
+        "contact": "Contact",
+        "privacy": "Privacy Policy"
+    }
+}
